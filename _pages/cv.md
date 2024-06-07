@@ -42,9 +42,7 @@ Projects & Activities
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: Python, Java, C, Hardware Description Language: SystemVerilog
+* Electronic Simulation: Multism, ModelSim, Simulink, Quartus
+* Mathematical Modelling & Analysis: Matlab, Python
+* Languages: Mandarian (First Language), English (Professional)
