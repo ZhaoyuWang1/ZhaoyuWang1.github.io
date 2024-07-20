@@ -36,9 +36,19 @@ Publications
   
 Projects & Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Dec 2022 - May 2023: 3D Asset Texture Generation
+  * Industrial AI software group project: Imperial College London & Loci
+  * Project Goal: To simplify the 3D asset creation process by using AI to generate textures, given a mesh of an arbitrary object. The desired output format is a Python package and potentially API endpoints, which wrap your python functions.
+  * Responsible for text-to-image task for texture generation and output post-processing. 
+
+* Spring 2023: Patronizing and Condescending Language Detection
+  * NLP course project: SemEval-2022 Task 4 - Patronizing and Condescending Language Detection
+  * Technical Report can be found at: [Report](https://github.com/ZhaoyuWang1/NLP-Group-Project-SemEval-2022-Task-4/blob/main/report.pdf)
+  * My group achieved 1st in 22-23 cohort with the help of 2 classmates
+
+* Sep 2021 - May 2022: “Low-Power, Low-Complexity RISC-V Microprocessor Design and Implementation
+  * Bachelor Dissertation
+  * Design, conduct experimental comparisons and analysis between microarchitectures. Build and simulate the designs on ModelSim, implement and verify the microprocessor on the FPGA board.
   
 Skills
 ======
